@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "Crab Claw Racers",
+    "iconUrl": "https://your-domain.vercel.app/icon.png",
+    "homeUrl": "https://your-domain.vercel.app",
+    "imageUrl": "https://your-domain.vercel.app/og.png",
+    "buttonTitle": "Open Dashboard",
+    "splashImageUrl": "https://your-domain.vercel.app/splash.png",
+    "splashBackgroundColor": "#0a0a0f",
+    "webhookUrl": "https://your-domain.vercel.app/api/webhook"
+  }
+}
